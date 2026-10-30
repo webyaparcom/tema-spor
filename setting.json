@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Ritim Spor Merkezi: grup dersleri, serbest antrenman, üyelik paketleri ve deneme dersi; üyelik koşulları açık. (Demo site)",
+    "en": "Ritim Sports Centre: group classes, free training, membership packages and a trial class; membership terms are clear. (Demo site)",
+    "ar": "مركز ريتم الرياضي: حصص جماعية وتدريب حر وباقات عضوية وحصة تجريبية مع شروط عضوية واضحة. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "spor salonu, fitness, grup dersi, üyelik",
+    "en": "gym, fitness, group classes, membership",
+    "ar": "نادٍ رياضي، لياقة، حصص جماعية، عضوية"
+  },
+  "category": "Kurumsal",
+  "name": "Ritim Spor Merkezi",
+  "domain": "spor.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "poppins",
+    "heading": "barlow-condensed",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#D9381E",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "6px",
+    "--mx-radius-md": "10px",
+    "--mx-radius-lg": "14px",
+    "--mx-radius-xl": "19px"
+  },
+  "icon": "icon.png"
+}

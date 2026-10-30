@@ -1,0 +1,39 @@
+{
+  "id": "mulcosdzef",
+  "name": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "description": {
+    "tr": "Antrenman alanı, ders salonu ve havuzdan görüntüler.",
+    "en": "Views of the training floor, the studio and the pool.",
+    "ar": "صور من منطقة التدريب وقاعة الحصص والمسبح."
+  },
+  "keyword": {
+    "tr": "galeri, fotoğraf",
+    "en": "gallery, photos",
+    "ar": "معرض، صور"
+  },
+  "path": "galeri",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "yqdmgj"
+    ],
+    "footer": []
+  },
+  "index": 5,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "date": "2026-10-30T22:02:13.925Z",
+  "update": "2026-10-30T22:03:24.531Z"
+}

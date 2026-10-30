@@ -1,0 +1,39 @@
+{
+  "id": "npwmi3rcbw",
+  "name": {
+    "tr": "Ders Programı",
+    "en": "Class Schedule",
+    "ar": "جدول الحصص"
+  },
+  "description": {
+    "tr": "Haftalık ders programı (örnek).",
+    "en": "The weekly class schedule (sample).",
+    "ar": "جدول الحصص الأسبوعي (نموذج)."
+  },
+  "keyword": {
+    "tr": "ders programı",
+    "en": "class schedule",
+    "ar": "جدول الحصص"
+  },
+  "path": "ders-programi",
+  "icon": "calendar_month",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "cxxt3w"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Ders Programı",
+    "en": "Class Schedule",
+    "ar": "جدول الحصص"
+  },
+  "date": "2026-10-30T22:02:13.876Z",
+  "update": "2026-10-30T22:03:24.507Z"
+}

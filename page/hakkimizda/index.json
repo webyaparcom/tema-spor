@@ -1,0 +1,48 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 6,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "kaaref",
+      "ybjpx0",
+      "uc767i"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Ritim Spor Merkezi, herkesin kendi hızında ilerleyebildiği, açık sözleşme koşullarıyla çalışan kurgusal bir demo salondur. Hiçbir ders belirli bir sonuç vaadiyle sunulmaz.",
+    "en": "Ritim Sports Centre is a fictional demo gym where everyone moves at their own pace and which works with clear contract terms. No class is offered with a promise of specific results.",
+    "ar": "مركز ريتم الرياضي نادٍ تجريبي افتراضي يتقدم فيه كل شخص بوتيرته ويعمل بشروط عقد واضحة. لا تُقدَّم أي حصة بوعد بنتائج محددة."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-10-30T22:03:24.534Z",
+  "date": "2026-10-30"
+}
