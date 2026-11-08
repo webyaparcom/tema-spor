@@ -26,7 +26,7 @@
     ],
     "footer": []
   },
-  "index": 4,
+  "index": 7,
   "url": "",
   "text": {
     "tr": "<h2>Üyelik koşulları</h2><p><strong>Fesih:</strong> Üyelik, sözleşme süresi içinde yazılı bildirimle 30 gün önceden feshedilebilir; kullanılmayan tam aylar için iade yapılır.</p><p><strong>Dondurma:</strong> Hastalık, gebelik ya da seyahat hâlinde belgeyle yılda en fazla 60 gün dondurulabilir.</p><p><strong>Otomatik yenileme:</strong> Aylık paketler her ay otomatik yenilenir; yenileme tarihinden 7 gün önce bildirimle iptal edilebilir.</p><p><strong>Cayma:</strong> Uzaktan yapılan üyeliklerde cayma süresi sözleşmenin yapıldığı günden itibaren 14 gündür (6502 sayılı Kanun md. 9).</p><p><em>Demo sitedir; koşullar örnektir.</em></p>",
@@ -39,5 +39,5 @@
     "ar": "شروط العضوية"
   },
   "date": "2026-10-30T22:02:13.894Z",
-  "update": "2026-10-30T22:03:24.519Z"
+  "update": "2026-11-05T22:23:37.552Z"
 }

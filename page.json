@@ -103,31 +103,6 @@
       "index": 3
     },
     {
-      "id": "41bfb685qx",
-      "name": {
-        "tr": "Üyelik Koşulları",
-        "en": "Membership Terms",
-        "ar": "شروط العضوية"
-      },
-      "description": {
-        "tr": "Fesih, dondurma, otomatik yenileme ve cayma bilgisi.",
-        "en": "Termination, freezing, auto-renewal and withdrawal information.",
-        "ar": "معلومات الإنهاء والتجميد والتجديد التلقائي والعدول."
-      },
-      "path": "uyelik-kosullari",
-      "icon": "gavel",
-      "category": "",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [
-          "fweloz"
-        ],
-        "footer": []
-      },
-      "index": 4
-    },
-    {
       "id": "mulcosdzef",
       "name": {
         "tr": "Galeri",
@@ -150,7 +125,7 @@
         ],
         "footer": []
       },
-      "index": 5
+      "index": 4
     },
     {
       "name": {
@@ -163,7 +138,7 @@
       "path": "hakkimizda",
       "category": "",
       "url": "",
-      "index": 6,
+      "index": 5,
       "icon": "info",
       "desing": {
         "header": [],
@@ -192,7 +167,7 @@
       "path": "iletisim",
       "category": "",
       "url": "",
-      "index": 7,
+      "index": 6,
       "icon": "call",
       "desing": {
         "header": [],

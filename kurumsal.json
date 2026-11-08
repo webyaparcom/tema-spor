@@ -163,6 +163,31 @@
         "footer": []
       },
       "index": 6
+    },
+    {
+      "id": "41bfb685qx",
+      "name": {
+        "tr": "Üyelik Koşulları",
+        "en": "Membership Terms",
+        "ar": "شروط العضوية"
+      },
+      "description": {
+        "tr": "Fesih, dondurma, otomatik yenileme ve cayma bilgisi.",
+        "en": "Termination, freezing, auto-renewal and withdrawal information.",
+        "ar": "معلومات الإنهاء والتجميد والتجديد التلقائي والعدول."
+      },
+      "path": "uyelik-kosullari",
+      "icon": "gavel",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "fweloz"
+        ],
+        "footer": []
+      },
+      "index": 7
     }
   ]
 }

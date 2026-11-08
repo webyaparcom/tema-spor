@@ -46,7 +46,10 @@
         "logo": "logo.png",
         "color": "var(--mx-site-text, #1b1b1b)",
         "height": "84px",
-        "background-color": "var(--mx-site-bg, #ffffff)"
+        "background-color": "var(--mx-site-bg, #ffffff)",
+        "menubg": "",
+        "menutext": "#fff",
+        "menuhoverbg": "rgba(255,255,255,.18)"
       },
       "version": "1.0.0",
       "icon": "menu",
@@ -102,7 +105,8 @@
           "ar": "احجز طاولة"
         },
         "btn2_url": "rezervasyon",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "version": "1.1.0",
       "icon": "hero",
@@ -1833,7 +1837,8 @@
           "tr": "Birlikte çalıştığımız müşterilerimizin deneyimleri.",
           "en": "Experiences from the customers we work with.",
           "ar": "تجارب العملاء الذين عملنا معهم."
-        }
+        },
+        "accentText": "#ffffff"
       },
       "version": "1.0.0",
       "icon": "format_quote",
@@ -1898,7 +1903,10 @@
         "color": "var(--mx-site-text, #1b1b1b)",
         "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
         "minimal_design": true,
-        "social_media": false
+        "social_media": false,
+        "logo_maxh": "60px",
+        "logo_plate": false,
+        "contact_line": "auto"
       },
       "version": "1.0.0",
       "icon": "widgets",
@@ -1919,7 +1927,8 @@
           "ar": "تواصل معنا"
         },
         "margin": "30px 0px 30px 0px",
-        "linkcolor": "var(--mx-site-primary, #2563eb)"
+        "linkcolor": "var(--mx-site-primary, #2563eb)",
+        "stil": ""
       },
       "version": "1.0.0",
       "icon": "contact_mail",
@@ -2020,7 +2029,8 @@
           "tr": "Kurumsal",
           "en": "Corporate",
           "ar": "المؤسسة"
-        }
+        },
+        "stil": ""
       },
       "version": "1.1.0",
       "icon": "business",
@@ -3544,7 +3554,8 @@
           "ar": "باقات العضوية"
         },
         "btn2_url": "uyelik-paketleri",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -3787,7 +3798,8 @@
           "ar": "ابدأ في النادي بأربع خطوات."
         },
         "cardbg": "var(--mx-site-surface, #ffffff)",
-        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "#ffffff"
       },
       "data": [
         {
@@ -3877,7 +3889,8 @@
           "en": "Common questions and short answers.",
           "ar": "أسئلة متكررة وإجابات موجزة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [],
       "category": "faq",
@@ -3934,7 +3947,8 @@
           "tr": "Hakkımızda",
           "en": "About us",
           "ar": "من نحن"
-        }
+        },
+        "stil": ""
       },
       "category": "module",
       "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. Ana sayfa şeridi ve temalar için varsayılan cok dilli metinler. İki kolonlu responsive tasarım, W2 animasyon ve icon desteği içerir.",
@@ -4209,7 +4223,8 @@
           "en": "Membership terms",
           "ar": "شروط العضوية"
         },
-        "btn2Url": "uyelik-kosullari"
+        "btn2Url": "uyelik-kosullari",
+        "stil": ""
       },
       "category": "cta",
       "description": "Harekete geçirici çağrı (CTA) şerit modülü. Gradient arka plan üzerinde başlık, açıklama ve iki buton gösterir. Buton URL'leri dil öneki olmadan pathnext (iletisim, urunler) — site routing ekler. Çok dilli metin ve animasyonlu giriş içerir.",
@@ -4229,7 +4244,8 @@
         "numbercolor": "#ffffff",
         "labelcolor": "rgba(255,255,255,.88)",
         "iconsize": "56px",
-        "iconbox": "88px"
+        "iconbox": "88px",
+        "stil": ""
       },
       "data": [
         {
@@ -4307,7 +4323,8 @@
           "en": "A fictional sample team; no photographs are used.",
           "ar": "فريق افتراضي للعرض؛ دون استخدام صور."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "#ffffff"
       },
       "data": [
         {
@@ -5095,7 +5112,8 @@
           "en": "Membership is offered with its termination, freezing and auto-renewal terms; the withdrawal period starts on the day of the contract. Details are on the Membership Terms page.",
           "ar": "تُقدَّم العضوية مع شروط الإنهاء والتجميد والتجديد التلقائي، وتبدأ مدة العدول من يوم العقد. التفاصيل في صفحة شروط العضوية."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "#ffffff"
       },
       "data": [
         {
@@ -5228,7 +5246,8 @@
           "ar": "الأوقات نماذج؛ ويُعلَن الجدول الحالي في النادي."
         },
         "cardbg": "var(--mx-site-surface, #ffffff)",
-        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "#ffffff"
       },
       "data": [
         {
@@ -5406,7 +5425,9 @@
           "tr": "Ürün navigasyonu",
           "en": "Product navigation",
           "ar": "تنقل المنتج"
-        }
+        },
+        "stil": "",
+        "activetext": "#fff"
       },
       "category": "page",
       "description": "Sayfa basligi, yan menu ve icerik alani. Urun detayinda breadcrumb, olcu kartlari, teklif/WhatsApp CTA, onceki/sonraki urun navigasyonu. Kategori menusu ve responsive slide-in menu.",
