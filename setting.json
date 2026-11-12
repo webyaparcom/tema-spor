@@ -50,5 +50,7 @@
     "--mx-radius-lg": "14px",
     "--mx-radius-xl": "19px"
   },
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "phone": "+90 342 000 00 00",
+  "email": "uye@ritimspor.example"
 }
