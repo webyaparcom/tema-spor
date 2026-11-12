@@ -30,6 +30,12 @@
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
           "ar": "(يفتح في علامة تبويب جديدة)"
+        },
+        "girisHref": "",
+        "girisText": {
+          "tr": "Üye Girişi",
+          "en": "Login",
+          "ar": "تسجيل الدخول"
         }
       },
       "version": "1.0.0",
@@ -1906,7 +1912,12 @@
         "social_media": false,
         "logo_maxh": "60px",
         "logo_plate": false,
-        "contact_line": "auto"
+        "contact_line": "auto",
+        "logoDark": "",
+        "duzen": "",
+        "slogan": "",
+        "ikinciSutun": "",
+        "iletisimNot": ""
       },
       "version": "1.0.0",
       "icon": "widgets",
@@ -3642,7 +3653,7 @@
             "ar": "التدريب الوظيفي"
           },
           "description": {
-            "tr": "Günlük hareketleri destekleyen çembe ve denge çalışmaları.",
+            "tr": "Günlük hareketleri destekleyen çember ve denge çalışmaları.",
             "en": "Circuit and balance work that supports everyday movement.",
             "ar": "تمارين دائرية وتوازن تدعم الحركات اليومية."
           }
@@ -3732,7 +3743,7 @@
             "ar": "التدريب الوظيفي"
           },
           "description": {
-            "tr": "Günlük hareketleri destekleyen çembe ve denge çalışmaları.",
+            "tr": "Günlük hareketleri destekleyen çember ve denge çalışmaları.",
             "en": "Circuit and balance work that supports everyday movement.",
             "ar": "تمارين دائرية وتوازن تدعم الحركات اليومية."
           }
@@ -4280,7 +4291,7 @@
         },
         {
           "number": 16,
-          "suffix": "sa",
+          "suffix": "",
           "label": {
             "tr": "Günlük açık saat",
             "en": "Open hours per day",
@@ -5251,15 +5262,11 @@
       },
       "data": [
         {
-          "year": {
-            "tr": "Pzt",
-            "en": "Mon",
-            "ar": "الإثنين"
-          },
+          "year": "01",
           "title": {
-            "tr": "07:30 Kardiyo · 19:00 Kuvvet",
-            "en": "07:30 Cardio · 19:00 Strength",
-            "ar": "07:30 كارديو · 19:00 قوة"
+            "tr": "Pazartesi — 07:30 Kardiyo · 19:00 Kuvvet",
+            "en": "Monday — 07:30 Cardio · 19:00 Strength",
+            "ar": "الإثنين — 07:30 كارديو · 19:00 قوة"
           },
           "text": {
             "tr": "Orta tempolu interval ve eğitmen eşliğinde kuvvet.",
@@ -5268,15 +5275,11 @@
           }
         },
         {
-          "year": {
-            "tr": "Sal",
-            "en": "Tue",
-            "ar": "الثلاثاء"
-          },
+          "year": "02",
           "title": {
-            "tr": "18:30 Yoga · 20:00 Yüzme",
-            "en": "18:30 Yoga · 20:00 Swimming",
-            "ar": "18:30 يوغا · 20:00 سباحة"
+            "tr": "Salı — 18:30 Yoga · 20:00 Yüzme",
+            "en": "Tuesday — 18:30 Yoga · 20:00 Swimming",
+            "ar": "الثلاثاء — 18:30 يوغا · 20:00 سباحة"
           },
           "text": {
             "tr": "Esneklik ve havuz dersleri.",
@@ -5285,32 +5288,24 @@
           }
         },
         {
-          "year": {
-            "tr": "Çar",
-            "en": "Wed",
-            "ar": "الأربعاء"
-          },
+          "year": "03",
           "title": {
-            "tr": "07:30 Fonksiyonel · 19:00 Kardiyo",
-            "en": "07:30 Functional · 19:00 Cardio",
-            "ar": "07:30 وظيفي · 19:00 كارديو"
+            "tr": "Çarşamba — 07:30 Fonksiyonel · 19:00 Kardiyo",
+            "en": "Wednesday — 07:30 Functional · 19:00 Cardio",
+            "ar": "الأربعاء — 07:30 وظيفي · 19:00 كارديو"
           },
           "text": {
-            "tr": "Çembe çalışması ve interval.",
+            "tr": "Devre çalışması ve interval.",
             "en": "Circuit work and intervals.",
             "ar": "تمارين دائرية وفترات."
           }
         },
         {
-          "year": {
-            "tr": "Per",
-            "en": "Thu",
-            "ar": "الخميس"
-          },
+          "year": "04",
           "title": {
-            "tr": "18:30 Yoga · 19:30 Kuvvet",
-            "en": "18:30 Yoga · 19:30 Strength",
-            "ar": "18:30 يوغا · 19:30 قوة"
+            "tr": "Perşembe — 18:30 Yoga · 19:30 Kuvvet",
+            "en": "Thursday — 18:30 Yoga · 19:30 Strength",
+            "ar": "الخميس — 18:30 يوغا · 19:30 قوة"
           },
           "text": {
             "tr": "Sakin yoga ve kuvvet.",
@@ -5319,15 +5314,11 @@
           }
         },
         {
-          "year": {
-            "tr": "Cmt",
-            "en": "Sat",
-            "ar": "السبت"
-          },
+          "year": "05",
           "title": {
-            "tr": "10:00 Çocuk jimnastiği · 11:30 Fonksiyonel",
-            "en": "10:00 Kids’ gymnastics · 11:30 Functional",
-            "ar": "10:00 جمباز أطفال · 11:30 وظيفي"
+            "tr": "Cumartesi — 10:00 Çocuk jimnastiği · 11:30 Fonksiyonel",
+            "en": "Saturday — 10:00 Kids’ gymnastics · 11:30 Functional",
+            "ar": "السبت — 10:00 جمباز أطفال · 11:30 وظيفي"
           },
           "text": {
             "tr": "Hafta sonu aile dersleri.",
